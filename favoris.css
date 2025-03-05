@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #e4caca;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+#bookmarks-list {
+    display : grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.bookmark{
+    border : 5px solid orange;
+}
+
+  
+.bookmark_container{
+    display : flex;
+    flex-direction: column;
+    gap : 1vh;
+    border : 5px solid purple;
+}
+
+.bookmark_container-img{
+    width : 200px;
+    height : 200px;
+    background-color: pink;
+    border : 1px solid black;
+}
+  
+
+.bookmark_container-title{
+    color: green;
+}
