@@ -20,7 +20,9 @@ Extension Chrome qui affiche les favoris sous forme de miniatures grâce à des 
     - Récupérer la clé API depuis le tableau de bord.
     - Créer un fichier config.js à la racine et ajouter la clé API :
     ```sh
-    const API_KEY = "MA_CLE_API";
+    const CONFIG = {
+        API_KEY: "MA_CLE_API"
+    };
     ```
 
 4. **Charger l'extension dans Chrome**  
