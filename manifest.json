@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Favoris Chrome",
+    "name": "Bookmarks miniatures",
     "version": "1.0",
-    "description": "Affiche les favoris de l'utilisateur dans une extension",
+    "description": "Extension qui affiche les favoris de l'utilisateur sous forme de miniature.",
     "permissions": [
       "bookmarks"  
     ],
