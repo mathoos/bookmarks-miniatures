@@ -11,7 +11,7 @@ function getScreenshot(url) {
     const dimension = "320x240";
     const device = "desktop";
     const format = "jpg";
-    const delay = 5000;
+    const delay = 10000;
     const encodedUrl = encodeURIComponent(url);
 
     return `https://api.screenshotmachine.com/?key=${apiKey}&url=${encodedUrl}&device=${device}&dimension=${dimension}&format=${format}&delay=${delay}`;
