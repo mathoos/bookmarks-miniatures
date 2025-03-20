@@ -37,7 +37,7 @@ Extension Chrome qui affiche les favoris sous forme de miniatures grâce à des 
 
 - Aller dans **extensions**.
 - Cliquer sur **Booksmarks miniatures**.
-- Une page web s'ouvre avec la liste de vos favoris sous forme de miniatures.
+- Une page web s'ouvre avec la liste de vos favoris sous forme de miniatures (Lors du premier chargement de la page, l'API peut mettre un certain temps à répondre. Mais une fois que les captures seront mises en cache, le chargement se fera rapidement).
 - Chaque favori a une **image générée automatiquement** avec [Screenshot Machine](https://www.screenshotmachine.com/).
 - Cliquez sur un favori pour l'ouvrir dans un **nouvel onglet**.
 
