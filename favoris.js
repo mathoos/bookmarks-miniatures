@@ -36,11 +36,8 @@ function displayBookmarks(bookmarks, parentElement) {
             parentElement.appendChild(bookmarkElement);
         }
 
-        // Si c'est un dossier, appel récursif
         if (bookmark.children) {
             displayBookmarks(bookmark.children, parentElement);
         }
     });
 }
-
-  
