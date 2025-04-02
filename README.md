@@ -7,7 +7,7 @@ Affiche tes favoris sous forme de miniatures grâce à des captures d'écran aut
 
 1️⃣ **Cloner le projet**  
 
-    git clone https://github.com/mathoos/extension-favoris.git
+    git clone https://github.com/mathoos/bookmarks-miniatures
  
 2️⃣ **Installer les dépendances**  
 
