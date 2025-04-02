@@ -31,7 +31,7 @@ Affiche tes favoris sous forme de miniatures grâce à des captures d'écran aut
 ## 🎯 Utilisation
 
   🔹 Aller dans **extensions**.  
-  🔹 Cliquer sur **Booksmarks Miniatures**.  
+  🔹 Cliquer sur **Bookmarks Miniatures**.  
   🔹 Une page web s'ouvre avec la liste des favoris sous forme de miniatures (Lors du premier chargement de la page, l'API peut mettre un certain temps à répondre. Mais une fois que les captures seront mises en cache, le chargement se fera rapidement).  
   🔹 Chaque favori a une **image générée automatiquement** avec [Screenshot Machine](https://www.screenshotmachine.com/).  
   🔹 Cliquer sur un favori pour l'ouvrir dans un **nouvel onglet**.
